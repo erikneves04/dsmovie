@@ -6,6 +6,7 @@
 
 Link do frontend: https://dsmovie-frontend-e.netlify.app/ </br>
 Link do backend(API): https://dsmovie-spring--react.herokuapp.com/
+Obs.: A API entra em repouso após um tempo... Então a primeira requisição pode demorar um pouco a ser atendida.
 
 </div> 
 
